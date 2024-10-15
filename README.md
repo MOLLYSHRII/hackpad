@@ -1,3 +1,3 @@
 my first repository 
 <Br>
-a game for sprig
+for micropad
